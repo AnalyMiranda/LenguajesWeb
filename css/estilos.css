@@ -1,0 +1,22 @@
+		h1 {
+			color: red; 
+			font-weight: 500; 
+			font-family: Arial; 
+			font-size: 20px;
+		}
+		h2 {
+			color:black; 
+			font-size:16px;
+		}
+		img {
+			border: solid 1px; 
+			color:blue;
+		}
+		p {
+			color:yellow; 
+			font-size: 14 px;
+		}
+		.resaltar {
+			font-family: Arial;
+			color:purple;
+		}
